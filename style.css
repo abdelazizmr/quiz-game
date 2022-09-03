@@ -1,0 +1,40 @@
+*{
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+h5{
+    color: #999da1;
+    text-align: center;
+    padding: 10px;
+    
+}
+h3{
+    color: rgb(40, 40, 40);
+}
+.suggestions{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    flex-wrap: wrap;
+}
+hr{
+    width: 60%;
+    background-color: #999da1;
+    margin: 20px auto;
+
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 30px !important;
+    flex-wrap: wrap;
+}
+.footer p{
+    color:#898c8f ;
+}
+.btn {
+    color: white !important;
+}
